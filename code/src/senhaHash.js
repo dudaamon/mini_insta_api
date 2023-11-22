@@ -1,1 +1,1 @@
-module.exports = 'senhaDaApiMiniInsta';
+module.exports = process.env.SENHA_JWT;
